@@ -47,7 +47,7 @@ def fetch_album_articles(biz, album_id, start_msgid):
         for article in article_list:
             print("文章标题:", article["title"])
             print("time", article["create_time"])
-            extract_wechat_article_content(article["url"], int(article["create_time"]))
+            extract_wechat_article_content(article["url"], int(article["create_time"]), "articles/金渐成")
             urls.append(article["url"])
 
         # 获取下一页的起始 msgid
@@ -67,7 +67,12 @@ def fetch_album_articles(biz, album_id, start_msgid):
 if __name__ == "__main__":
     __biz = "Mzg2NTkwNTM4MA=="
     album_id = "3896715541905326087"
-    start_msgid = "2247484044"  # 初始 msgid
+    start_msgid = "2247484044"  # 初始 msgid  金渐成 # 2025-05-08
+
+    # __biz = "Mzg2OTkwNzE4MA=="
+    # album_id = "3715248304800841730"
+    # start_msgid = "2247492939"  # 初始 msgid  天机奇谈 -- 日常随想 2025-05-09
 
     urls = fetch_album_articles(__biz, album_id, start_msgid)
     print("\n总共抓取文章数:", len(urls))
+
