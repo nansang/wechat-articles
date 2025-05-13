@@ -70,8 +70,20 @@ if __name__ == "__main__":
     start_msgid = "2247484044"  # 初始 msgid  金渐成 # 2025-05-08
 
     # __biz = "Mzg2OTkwNzE4MA=="
+    # album_id = "2861896433740955648"
+    # start_msgid = "2247492939"  # 初始 msgid  天机奇谈 -- 地产随笔 2025-05-09
+
+    # album_id = "2861890111381323779"
+    # start_msgid = "2247492948" # # 初始 msgid  天机奇谈 -- 地产透视  2025-05-09 
+
     # album_id = "3715248304800841730"
-    # start_msgid = "2247492939"  # 初始 msgid  天机奇谈 -- 日常随想 2025-05-09
+    # start_msgid = "2247492842" # # 初始 msgid  天机奇谈 -- 日常随想  2025-05-09 
+
+    
+
+
+
+
 
     urls = fetch_album_articles(__biz, album_id, start_msgid)
     print("\n总共抓取文章数:", len(urls))

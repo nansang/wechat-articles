@@ -30,7 +30,7 @@ def extract_wechat_article_content(url, timestamp=1692452567, save_dir="articles
         safe_title = title.replace('/', '_').replace('\\', '_').replace('|', '_')
         filename = f"{formatted_time} - {safe_title}.md".replace('/', '_').replace('\\', '_')  # 防止非法字符
         with open(os.path.join(save_dir, filename), "w", encoding="utf-8") as f:
-            f.write(f"# {title}\n\n")
+            f.write(f"# {formatted_time} - {safe_title}\n\n")
             f.write(content)
 
         print(f"✅ 已保存为 Markdown: {filename}")
@@ -43,5 +43,5 @@ def extract_wechat_article_content(url, timestamp=1692452567, save_dir="articles
 
 
 # 示例使用
-article_url = "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwNTM4MA==&mid=2247484159&idx=1&sn=0ef01696732b24176b85498be4f74cf5"
-extract_wechat_article_content(article_url)
+# article_url = "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwNTM4MA==&mid=2247484159&idx=1&sn=0ef01696732b24176b85498be4f74cf5"
+# extract_wechat_article_content(article_url)
