@@ -80,5 +80,5 @@ def extract_wechat_article_content(url, timestamp=1692452567, save_dir="articles
         driver.quit()
 
 # 示例使用
-article_url = "https://mp.weixin.qq.com/s?__biz=MzkxOTU5NDM3MQ==&mid=2247483656&idx=1&sn=ef685cab36b1a703126d7ce7f1123921&chksm=c19ef5e4f6e97cf228836bd6740d4ed61901ee8925199cff922df12bc042c6dbc15efa37c79a&scene=178&cur_album_id=3727647799954063362&search_click_id=#rd"
+article_url = ""
 extract_wechat_article_content(article_url)
