@@ -18,11 +18,12 @@ def fetch_album_articles(biz, album_id, start_msgid):
             "x5": "0",
             "devicetype": "Windows 11 x64",
             "clientversion": "63090c33",
-            "appmsg_token": ""
+            "appmsg_token": "",
+            "is_reverse": 1
         }
 
         headers = {
-            "User-Agent": "Mozilla/5.0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
             # 你可能还需要 Cookie 才能成功访问，视情况而定
         }
 
@@ -47,7 +48,7 @@ def fetch_album_articles(biz, album_id, start_msgid):
         for article in article_list:
             print("文章标题:", article["title"])
             print("time", article["create_time"])
-            extract_wechat_article_content(article["url"], int(article["create_time"]), "articles/金渐成")
+            extract_wechat_article_content(article["url"], int(article["create_time"]), "articles/伤寒论再发掘")
             urls.append(article["url"])
 
         # 获取下一页的起始 msgid
@@ -65,9 +66,9 @@ def fetch_album_articles(biz, album_id, start_msgid):
 
 
 if __name__ == "__main__":
-    __biz = "Mzg2NTkwNTM4MA=="
-    album_id = "3896715541905326087"
-    start_msgid = "2247484044"  # 初始 msgid  金渐成 # 2025-05-08
+    # __biz = "Mzg2NTkwNTM4MA=="
+    # album_id = "3896715541905326087"
+    # start_msgid = "2247484044"  # 初始 msgid  金渐成 # 2025-05-08
 
     # __biz = "Mzg2OTkwNzE4MA=="
     # album_id = "2861896433740955648"
@@ -79,8 +80,9 @@ if __name__ == "__main__":
     # album_id = "3715248304800841730"
     # start_msgid = "2247492842" # # 初始 msgid  天机奇谈 -- 日常随想  2025-05-09 
 
-    
-
+    __biz = "MzkxOTU5NDM3MQ=="
+    album_id = "3727647799954063362"
+    start_msgid = "2247483656"  # 初始 msgid  伤寒再发掘 # 2025-05-08
 
 
 
