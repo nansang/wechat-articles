@@ -39,28 +39,28 @@ def extract_wechat_article_content(url, timestamp=1692452567, save_dir="articles
         # 转为 Markdown
         markdown_content = md(str(soup), heading_style="ATX")
 
-        enhanced_lines = []
-        for line in markdown_content.splitlines():
-            stripped = line.strip()
+        # enhanced_lines = []
+        # for line in markdown_content.splitlines():
+        #     stripped = line.strip()
 
-            # 匹配以 **数字 或 **数字. 开头的段落（数字后面可选点）
-            match = re.match(r'^(\*\*\s*\d+\.?)\s*(.*)', stripped)
-            if match:
-                full_number = match.group(1)  # "**33" 或 "**33."
-                rest = match.group(2)         # 后续内容
-                enhanced_lines.append(f"# {full_number} {rest}".strip())
-            else:
-                enhanced_lines.append(line)
+        #     # 匹配以 **数字 或 **数字. 开头的段落（数字后面可选点）
+        #     match = re.match(r'^(\*\*\s*\d+\.?)\s*(.*)', stripped)
+        #     if match:
+        #         full_number = match.group(1)  # "**33" 或 "**33."
+        #         rest = match.group(2)         # 后续内容
+        #         enhanced_lines.append(f"# {full_number} {rest}".strip())
+        #     else:
+        #         enhanced_lines.append(line)
 
-        markdown_content = "\n".join(enhanced_lines)
+        # markdown_content = "\n".join(enhanced_lines)
 
         # 清理多余空行
-        cleaned_lines = []
-        for line in markdown_content.splitlines():
-            if line.strip() == "" and (not cleaned_lines or cleaned_lines[-1].strip() == ""):
-                continue
-            cleaned_lines.append(line)
-        markdown_content = "\n".join(cleaned_lines)
+        # cleaned_lines = []
+        # for line in markdown_content.splitlines():
+        #     if line.strip() == "" and (not cleaned_lines or cleaned_lines[-1].strip() == ""):
+        #         continue
+        #     cleaned_lines.append(line)
+        # markdown_content = "\n".join(cleaned_lines)
 
         # 保存为 .md 文件
         os.makedirs(save_dir, exist_ok=True)
@@ -80,5 +80,5 @@ def extract_wechat_article_content(url, timestamp=1692452567, save_dir="articles
         driver.quit()
 
 # 示例使用
-article_url = ""
-extract_wechat_article_content(article_url)
+# article_url = ""
+# extract_wechat_article_content(article_url)
