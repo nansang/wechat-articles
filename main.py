@@ -88,7 +88,12 @@ if __name__ == "__main__":
     # album_id = "3715248304800841730"
     # start_msgid = "2247492843" # # 初始 msgid  天机奇谈 -- 日常随想  2025-05-09 
 
-
+    # __biz = "Mzg5ODgxNDE0NQ==" # 精算学习交流圈 -- 北美精算师
+    # album_id = "2482089104038428675"
+    # start_msgid = "2247506776"
+    # path = "articles/北美精算师"
+    # is_reverse = 0
+    
     urls = fetch_album_articles(__biz, album_id, start_msgid, path, is_reverse)
     print("\n总共抓取文章数:", len(urls))
 
