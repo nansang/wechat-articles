@@ -13,13 +13,13 @@ album_configs = [
         "album_id": "3932943505567170582",
         "start_msgid": "2247485143",  # 育儿专栏首个msgid
         "path": "articles/金渐成/育儿",
-        "is_reverse": 0
+        "is_reverse": 1
     },
     
     # 天机奇谈系列
     {
         "biz": "Mzg2OTkwNzE4MA==",
-        "album_id": "286189643740955648",
+        "album_id": "2861896433740955648",
         "start_msgid": "2247492939",  # 地产随笔首个msgid
         "path": "articles/天机奇谈/地产随笔",
         "is_reverse": 0

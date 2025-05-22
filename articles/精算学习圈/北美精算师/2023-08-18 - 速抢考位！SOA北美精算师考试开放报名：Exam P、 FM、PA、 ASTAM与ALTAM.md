@@ -1,0 +1,211 @@
+# 2023-08-18 - 速抢考位！SOA北美精算师考试开放报名：Exam P、 FM、PA、 ASTAM与ALTAM
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/mK3FpI9af4kg4PH3You8v1p2s4zAl35ZxNnxg0MdNmVTvH2IJcatox7FnBcNAnYE4JN8ZPBDeK1yLvRwqaptmA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/mK3FpI9af4kg4PH3You8v1p2s4zAl35ZQkpnCFrL4sxibTsCHduia44N0WRpw0ibe62rGfxowYB0ZzQROPDAlhh3Q/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+
+💁‍♀️各位SOA考生注意啦，如果你有计划参加考试，记得提前了解各科考试时间，并在截止日期前进行报名哦。**国内考位紧张，先报名先抢位，抓住每次考试机会。**
+
+SOA考试目前有四门科目报名窗口开放中，分别是**Exam P、Exam FM、Exam PA、Exam ASTAM与Exam ALTAM**，计划考试的同学速报！
+
+01
+
+**SOA考试报名开放窗口**
+
+**🔔 Exam P**
+
+|  |  |
+| --- | --- |
+| **2023年** | **9月份考试** |
+| 截止报名时间 | 8月15日 |
+| 机考时间 | 9月13日—9月24日 |
+
+**🔔 Exam FM**
+
+|  |  |
+| --- | --- |
+| **2023年** | **10月份考试** |
+| 截止报名时间 | 9月5日 |
+| 机考时间 | 10月3日—10月14日 |
+
+🔔**Exam PA**
+
+|  |  |
+| --- | --- |
+| **2023年** | **10月份考试** |
+| 截止报名时间 | 9月12日 |
+| 机考时间 | 10月17日—10月20日 |
+
+  
+
+**🔔 Exam ASTAM**
+
+|  |  |
+| --- | --- |
+| **2023年** | **10月份考试** |
+| 截止报名时间 | 9月25日 |
+| 机考时间 | 10月25日 |
+
+**🔔 Exam ALTAM**
+
+|  |  |
+| --- | --- |
+| **2023年** | **10月份考试** |
+| 截止报名时间 | 9月25日 |
+| 机考时间 | 10月24日 |
+
+02
+
+**2023年北美精算师全年考试安排**
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+03
+
+**SOA考试地点汇总**
+
+SOA北美精算师国内开放的考点有：北京、成都、广州、杭州、济南、昆明、南京、上海、武汉、大连、西安、香港地区、台湾地区。                                
+
+**📍 Prometric 北京考试中心**
+
+北京市海淀区科学院南路2号融科资讯中心A座4层407单元
+
+📍 **Prometric 成都考试中心**
+
+成都市红星路二段159号红星国际3号楼3楼301银河教育中心
+
+📍 **Prometric 大连考试中心**
+
+辽宁省大连市中山区五五路30号名仕国际A1212
+
+**📍 Prometric 广州考试中心**
+
+广州市白云区远景路14号时代商务大厦（时代商务中心C栋）601室
+
+📍 **Prometric 杭州考试中心**
+
+浙江省杭州市西湖区古翠路76号怡泰大厦8楼801室
+
+📍 **Prometric 济南考试中心**
+
+济南市历下区经十路12111号中润世纪锋1号楼3层
+
+📍 **Prometric 昆明考试中心**
+
+云南省昆明市经济开发区第三城财富中心A2幢2601
+
+📍 **Prometric 南京考试中心**
+
+江苏省南京市建邺区汉中门大街1号金鹰汉中新城15层AB座
+
+📍 **Prometric 上海考试中心**
+
+上海市中江路879号天地软件园27号楼一楼
+
+📍 **Prometric 武汉考试中心**
+
+武汉市洪山区卓刀泉南路华中师范大学东门教育培训大楼2号门621室
+
+📍 **Prometric西安考试中心**
+
+陕西省西安市雁塔区小寨西路232号MOMOPARK写字楼16层1609房间
+
+📍 **Prometric 香港考试中心**
+
+Kowloon - 8591 : HONG KONG #8591, RM 501 Hkea San Po Kong Sub-Office HKG
+
+KOWLOON - 8593 : HONG KONG #8593, RM 501 HKEA SAN PO KONG SUB-OFFICE HKG
+
+📍 **Prometric 台湾考试中心**
+
+Taipei - 8657 : Taipei, Taiwan, Acumen Business English Centre TWN
+
+04
+
+**SOA考试注意事项**
+
+1️⃣考试当天，请考生在开考前30分钟到达考试地点（建议提前一天去考场踩点， 熟悉考场环境和住地距离)。
+
+2️⃣考试携带物品
+
+**a、计算器**
+
+TI-30XS MultiView或者德州仪器BAII PLUS
+
+**b、两种未过期的有效身份证件**
+
+* 护照+身份证 或
+* 身份证+信用卡 或
+* 护照+信用卡
+
+05
+
+**定考位技巧**
+
+想要更顺利定考位，这个定考位技巧一定要Mark住！**考生可以提前查询考位再进行报名！**
+
+> 📎*普尔文查询考位链接：*
+>
+> *https://proscheduler.prometric.com/*
+
+**1️⃣ 步骤一：**
+
+进入普尔文网址，点击 Search Availability（ 查询考位）
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+**2️⃣ 步骤二：**
+
+选择需查询的考试及科目，点击下一步
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+**3️⃣** **步骤三：**
+
+输入城市名称拼音（例如北京：BEIJING），选择机考日期范围，点击下一步就能看到可定的考位日期与时间。
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+❗注：查询考位只能是作为参考，实际的还是要以报名之后用ID号定考位为准。
+
+考位的状况每天都会有变化，具体要咨询每个城市的考试中心→点击查看各城市考试中心信息。如果订不到考位，可以以邮件的形式让考试中心帮你预留考位。
+
+**↓关注我们，GET更多精算考试资讯↓**
+
+**💁‍♀️**如果你对**CAA中国精算师、SOA北美精算师、CAS产险精算师**的报考条件、改革政策、备考规划、往年真题，考试时间、费用及地点，教材与题库、网课学习、备考答疑、各国精算师证书豁免、VEE认证等还有疑问，可以添加**小编微信soacaacas**或滑至文底**阅读原文**，获取一对一解答~
+
+**北美SOA/产险CAS/中国CAA**
+
+扫描下方二维码咨询详情
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+**精算师职业规划/备考真题**
+
+**报考指南/互认豁免**
+
+**更多精彩，戳下方图片**
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+[![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)](http://mp.weixin.qq.com/s?__biz=Mzg5ODgxNDE0NQ==&mid=2247496095&idx=1&sn=1652ad043d7583602c430bfc3007aac3&chksm=c05e6831f729e127b771f250531ddbc5e5fa382e199b4a6f49c73a6c8a3b21102ab8fe3e879f&scene=21#wechat_redirect)
+
+[![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)](http://mp.weixin.qq.com/s?__biz=Mzg5ODgxNDE0NQ==&mid=2247493501&idx=1&sn=7620e474746373a659fe5ef89fbb7cd2&chksm=c05e7ed3f729f7c511ae682b3857e983df48e50f8605ed66cb2ef2297a4871ede24978a97033&scene=21#wechat_redirect)
+
+[![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)](http://mp.weixin.qq.com/s?__biz=Mzg5ODgxNDE0NQ==&mid=2247485880&idx=1&sn=0ba2bf0e4451dec32a929e06b118121c&chksm=c05d9016f72a1900fe9894195b322250dec7c7456ca30c5cce94ae6819d30bc65094e2e2719d&scene=21#wechat_redirect)
+
+[![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)](http://mp.weixin.qq.com/s?__biz=Mzg5ODgxNDE0NQ==&mid=2247483716&idx=1&sn=e1df2885756e4f4a72d0567ffa4690bb&chksm=c05d98eaf72a11fca6a29c8eb62754a0b92898373d1de868332308fafe026d4c456fc0f4653f&scene=21#wechat_redirect)
+
+[![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)](http://mp.weixin.qq.com/s?__biz=Mzg5ODgxNDE0NQ==&mid=2247484305&idx=1&sn=faae400b6a109a99b390d9cf3b2e4c29&chksm=c05d9a3ff72a1329c36d211fdd502501b728c1692d079cf95ee41fd0269002f7c72cffff1ad0&scene=21#wechat_redirect)
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+
+**点这里，获取精算师考试专业解答**
