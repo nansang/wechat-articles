@@ -93,6 +93,12 @@ if __name__ == "__main__":
     # start_msgid = "2247506776"
     # path = "articles/北美精算师"
     # is_reverse = 0
+
+    __biz = "MjA1ODMxMDQwMQ=="
+    album_id = "3954806586270433294"
+    start_msgid = "2657974094"  # 初始 msgid  丁香医生-较真生活
+    path = "articles/丁香医生"
+    is_reverse = 0
     
     urls = fetch_album_articles(__biz, album_id, start_msgid, path, is_reverse)
     print("\n总共抓取文章数:", len(urls))
