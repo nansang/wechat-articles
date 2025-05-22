@@ -57,32 +57,3 @@ DeepSeek的**反馈学习机制**可辅助精算师优化风险评估模型。�
 
 AI不会取代精算师，但会用AI的精算师将淘汰同行！深耕行业洞察，用AI解放双手，专注战略决策与创新——这才是2025精算职场的终极生存法则！
 
-![图片1.png](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
-
-**↓关注我们，获取更多“AI+金融”实战技巧！ ↓**
-
-**💁‍♀️**如果你对**CAA中国精算师、SOA北美精算师、CAS产险精算师**的报考条件、改革政策、备考规划、往年真题，考试时间、费用及地点，教材与题库、网课学习、备考答疑、各国精算师证书豁免、VEE认证等还有疑问，可以添加**小编微信soacaacas**或滑至文底**阅读原文**，获取一对一解答~
-
-**北美SOA/产险CAS/中国CAA**
-
-扫描下方二维码咨询详情
-
-
-
-**精算师职业规划/备考真题**
-
-**报考指南/互认豁免**
-
-更多精彩，戳下方图片
-
-
-
-
-
-
-
-
-
-
-
-点这里，获取精算师考试专业解答

@@ -23,29 +23,3 @@ https://online.wproedu.com/WAP/live/505.html?param\_TypeId=17&param\_CoursesName
 💓**观看福利**：预约成功的同学即可获得「FAM学习资料一份」，添加精小算微信提供截图领取~
 
 **北美SOA/产险CAS/中国CAA**
-
-扫描下方二维码咨询详情
-
-
-
-**精算师职业规划/报考指南**
-
-**精品课程/互认豁免**
-
-**更多精彩，戳下方图片**
-
-
-
-[](http://mp.weixin.qq.com/s?__biz=Mzg5ODgxNDE0NQ==&mid=2247483716&idx=1&sn=e1df2885756e4f4a72d0567ffa4690bb&chksm=c05d98eaf72a11fca6a29c8eb62754a0b92898373d1de868332308fafe026d4c456fc0f4653f&scene=21#wechat_redirect)
-
-[](http://mp.weixin.qq.com/s?__biz=Mzg5ODgxNDE0NQ==&mid=2247484036&idx=1&sn=9bfce993ba0c830ec1e4b39b6716dd12&chksm=c05d9b2af72a123ccbaf001cc3fc565750743273fa0647a136e7593c7e21d55402af0fed5006&scene=21#wechat_redirect)
-
-[](http://mp.weixin.qq.com/s?__biz=Mzg5ODgxNDE0NQ==&mid=2247484305&idx=1&sn=faae400b6a109a99b390d9cf3b2e4c29&chksm=c05d9a3ff72a1329c36d211fdd502501b728c1692d079cf95ee41fd0269002f7c72cffff1ad0&scene=21#wechat_redirect)
-
-
-
-
-
-
-
-**点这里，获取精算师考试专业解答**
