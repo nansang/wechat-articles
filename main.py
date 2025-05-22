@@ -2,7 +2,7 @@ import requests
 import time
 from article import extract_wechat_article_content
 
-def fetch_album_articles(biz, album_id, start_msgid, path):
+def fetch_album_articles(biz, album_id, start_msgid, path, is_reverse):
     urls = []
     while True:
         api_url = f"https://mp.weixin.qq.com/mp/appmsgalbum"
@@ -19,7 +19,7 @@ def fetch_album_articles(biz, album_id, start_msgid, path):
             "devicetype": "Windows 11 x64",
             "clientversion": "63090c33",
             "appmsg_token": "",
-            "is_reverse": 1
+            "is_reverse": is_reverse
         }
 
         headers = {
@@ -70,25 +70,26 @@ if __name__ == "__main__":
     album_id = "3896715541905326087"
     start_msgid = "2247484267"  # 初始 msgid  金渐成 # 2025-05-08
     path = "articles/金渐成"
+    is_reverse = 1
 
     # album_id = "3932943505567170582"  # 金渐成 -- 育儿
     # start_msgid = "2247485143"
 
-    # album_id = "3896708264536227856"  #  金渐成 -- 投资心得
-    # start_msgid = "2247485139"
 
-    # __biz = "Mzg2OTkwNzE4MA=="
-    # album_id = "2861896433740955648"
-    # start_msgid = "2247492939"  # 初始 msgid  天机奇谈 -- 地产随笔 2025-05-09
-    # path = "articles/天机奇谈"
+    __biz = "Mzg2OTkwNzE4MA=="
+    album_id = "2861896433740955648"
+    start_msgid = "2247492939"  # 初始 msgid  天机奇谈 -- 地产随笔 2025-05-09
+    path = "articles/天机奇谈"
+    is_reverse = 0
+    
 
     # album_id = "2861890111381323779"
     # start_msgid = "2247492948" # # 初始 msgid  天机奇谈 -- 地产透视  2025-05-09 
-    # path = "articles/天机奇谈"
+
 
     # album_id = "3715248304800841730"
-    # start_msgid = "2247492842" # # 初始 msgid  天机奇谈 -- 日常随想  2025-05-09 
-    # path = "articles/天机奇谈"
+    # start_msgid = "2247492843" # # 初始 msgid  天机奇谈 -- 日常随想  2025-05-09 
+
 
     # __biz = "MzkxOTU5NDM3MQ=="
     # album_id = "3727647799954063362"
@@ -97,6 +98,6 @@ if __name__ == "__main__":
 
 
 
-    urls = fetch_album_articles(__biz, album_id, start_msgid, path)
+    urls = fetch_album_articles(__biz, album_id, start_msgid, path, is_reverse)
     print("\n总共抓取文章数:", len(urls))
 
