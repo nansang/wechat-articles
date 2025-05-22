@@ -75,27 +75,18 @@ if __name__ == "__main__":
     # album_id = "3932943505567170582"  # 金渐成 -- 育儿
     # start_msgid = "2247485143"
 
-
-    __biz = "Mzg2OTkwNzE4MA=="
-    album_id = "2861896433740955648"
-    start_msgid = "2247492939"  # 初始 msgid  天机奇谈 -- 地产随笔 2025-05-09
-    path = "articles/天机奇谈"
-    is_reverse = 0
+    # path = "articles/天机奇谈"
+    # is_reverse = 0
+    # __biz = "Mzg2OTkwNzE4MA=="
+    # album_id = "2861896433740955648"
+    # start_msgid = "2247492939"  # 初始 msgid  天机奇谈 -- 地产随笔 2025-05-09
+ 
     
-
     # album_id = "2861890111381323779"
     # start_msgid = "2247492948" # # 初始 msgid  天机奇谈 -- 地产透视  2025-05-09 
 
-
     # album_id = "3715248304800841730"
     # start_msgid = "2247492843" # # 初始 msgid  天机奇谈 -- 日常随想  2025-05-09 
-
-
-    # __biz = "MzkxOTU5NDM3MQ=="
-    # album_id = "3727647799954063362"
-    # start_msgid = "2247483656"  # 初始 msgid  伤寒再发掘 # 2025-05-08
-    # path = "articles/伤寒论再发掘"
-
 
 
     urls = fetch_album_articles(__biz, album_id, start_msgid, path, is_reverse)
