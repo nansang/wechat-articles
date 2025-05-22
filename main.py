@@ -87,6 +87,7 @@ if __name__ == "__main__":
 
     # album_id = "3715248304800841730"
     # start_msgid = "2247492843" # # 初始 msgid  天机奇谈 -- 日常随想  2025-05-09 
+    # is_reverse = 1
 
     # __biz = "Mzg5ODgxNDE0NQ==" # 精算学习交流圈 -- 北美精算师
     # album_id = "2482089104038428675"
@@ -94,11 +95,11 @@ if __name__ == "__main__":
     # path = "articles/北美精算师"
     # is_reverse = 0
 
-    __biz = "MjA1ODMxMDQwMQ=="
-    album_id = "3954806586270433294"
-    start_msgid = "2657974094"  # 初始 msgid  丁香医生-较真生活
-    path = "articles/丁香医生"
-    is_reverse = 0
+    # __biz = "MjA1ODMxMDQwMQ=="
+    # album_id = "3954806586270433294"
+    # start_msgid = "2657974094"  # 初始 msgid  丁香医生-较真生活
+    # path = "articles/丁香医生"
+    # is_reverse = 0
     
     urls = fetch_album_articles(__biz, album_id, start_msgid, path, is_reverse)
     print("\n总共抓取文章数:", len(urls))
