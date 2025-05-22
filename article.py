@@ -66,8 +66,12 @@ def extract_wechat_article_content(url, timestamp=1692452567, save_dir="articles
         os.makedirs(save_dir, exist_ok=True)
         safe_title = title.replace('/', '_').replace('\\', '_').replace('|', '_')
         filename = f"{formatted_time} - {safe_title}.md".replace('/', '_').replace('\\', '_')
+        file_path = os.path.join(save_dir, filename)
+        if os.path.exists(file_path):
+            print(f"⚠️ 文件已存在: {filename}")
+            return True
 
-        with open(os.path.join(save_dir, filename), "w", encoding="utf-8") as f:
+        with open(file_path, "w", encoding="utf-8") as f:
             f.write(f"# {formatted_time} - {safe_title}\n\n")
             f.write(markdown_content)
 

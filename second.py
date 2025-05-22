@@ -48,7 +48,10 @@ def fetch_album_articles(biz, album_id, start_msgid, path, is_reverse):
         for article in article_list:
             print("文章标题:", article["title"])
             print("time", article["create_time"])
-            extract_wechat_article_content(article["url"], int(article["create_time"]), path)
+            exist = extract_wechat_article_content(article["url"], int(article["create_time"]), path)
+            if exist == True:
+                return urls
+        
             urls.append(article["url"])
 
         # 获取下一页的起始 msgid
