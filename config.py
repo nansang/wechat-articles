@@ -50,8 +50,8 @@ album_configs = [
 ]
 
 # 批量执行函数（修改原代码）
-if __name__ == "__main__":
-    for config in album_configs:
+# if __name__ == "__main__":
+#     for config in album_configs:
         # urls = fetch_album_articles(
         #     biz=config["biz"],
         #     album_id=config["album_id"],
@@ -60,4 +60,4 @@ if __name__ == "__main__":
         #     is_reverse=config["is_reverse"]
         # )
         # print(f"【{config['path'].split('/')[-1]}】抓取完成，共获取{len(urls)}篇文章")
-        pass
+        # pass

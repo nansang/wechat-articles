@@ -8,8 +8,6 @@ from markdownify import markdownify as md
 from bs4 import BeautifulSoup
 import os
 import time
-import re
-
 
 def extract_wechat_article_content(url, timestamp=1692452567, save_dir="articles"):
     chrome_options = Options()
