@@ -30,4 +30,4 @@
 
 [精算学习交流圈 -- 北美精算师](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5ODgxNDE0NQ==&action=getalbum&album_id=2482089104038428675)
 
-[丁香医生-较真生活](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjA1ODMxMDQwMQ==&action=getalbum&album_id=3954806586270433294)
+[丁香医生 -- 较真生活](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjA1ODMxMDQwMQ==&action=getalbum&album_id=3954806586270433294)
