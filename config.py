@@ -35,48 +35,48 @@ album_configs = [
     },
     
     # 其他系列
-    {
-        "biz": "Mzg5ODgxNDE0NQ==",
-        "album_id": "2482089104038428675",
-        "path": "articles/精算学习圈/北美精算师",
-        "is_reverse": 0
-    },
+    # {
+    #     "biz": "Mzg5ODgxNDE0NQ==",
+    #     "album_id": "2482089104038428675",
+    #     "path": "articles/精算学习圈/北美精算师",
+    #     "is_reverse": 0
+    # },
     {
         "biz": "MjA1ODMxMDQwMQ==",
         "album_id": "3954806586270433294",
         "path": "articles/丁香医生/较真生活",
         "is_reverse": 0
     },
-    {
-        "biz": "MzUyMTcxODYyMw==",
-        "album_id": "3976481484910690309",
-        "path": "articles/大道问答录/段永平访谈和演讲",
-        "is_reverse": 1
-    },
-    {
-        "biz": "MzUyMTcxODYyMw==",
-        "album_id": "3002213374534926339",
-        "path": "articles/大道问答录/段永平投资问答录",
-        "is_reverse": 0
-    },
-    {
-        "biz": "MzUyMTcxODYyMw==",
-        "album_id": "2558808176826040323",
-        "path": "articles/大道问答录/段永平",
-        "is_reverse": 0
-    },
-    {
-        "biz": "MzUyMTcxODYyMw==",
-        "album_id": "3335787608588730369",
-        "path": "articles/大道问答录/巴菲特股东信",
-        "is_reverse": 0
-    },
-    {
-        "biz": "MzUyMTcxODYyMw==",
-        "album_id": "2532315030176972800",
-        "path": "articles/大道问答录/巴菲特",
-        "is_reverse": 0
-    },
+    # {
+    #     "biz": "MzUyMTcxODYyMw==",
+    #     "album_id": "3976481484910690309",
+    #     "path": "articles/大道问答录/段永平访谈和演讲",
+    #     "is_reverse": 1
+    # },
+    # {
+    #     "biz": "MzUyMTcxODYyMw==",
+    #     "album_id": "3002213374534926339",
+    #     "path": "articles/大道问答录/段永平投资问答录",
+    #     "is_reverse": 0
+    # },
+    # {
+    #     "biz": "MzUyMTcxODYyMw==",
+    #     "album_id": "2558808176826040323",
+    #     "path": "articles/大道问答录/段永平",
+    #     "is_reverse": 0
+    # },
+    # {
+    #     "biz": "MzUyMTcxODYyMw==",
+    #     "album_id": "3335787608588730369",
+    #     "path": "articles/大道问答录/巴菲特股东信",
+    #     "is_reverse": 0
+    # },
+    # {
+    #     "biz": "MzUyMTcxODYyMw==",
+    #     "album_id": "2532315030176972800",
+    #     "path": "articles/大道问答录/巴菲特",
+    #     "is_reverse": 0
+    # },
 ]
 
 # 批量执行函数（修改原代码）
