@@ -35,12 +35,18 @@ album_configs = [
     },
     
     # 其他系列
-    # {
-    #     "biz": "Mzg5ODgxNDE0NQ==",
-    #     "album_id": "2482089104038428675",
-    #     "path": "articles/精算学习圈/北美精算师",
-    #     "is_reverse": 0
-    # },
+    {
+        "biz": "Mzg5NzkwMTMzMA==",
+        "album_id": "2804960172988448769",
+        "path": "articles/精算屋/精算考试",
+        "is_reverse": 0
+    },
+    {
+        "biz": "Mzg5NzkwMTMzMA==",
+        "album_id": "2809916434738069507",
+        "path": "articles/精算屋/招聘信息",
+        "is_reverse": 0
+    },
     {
         "biz": "MjA1ODMxMDQwMQ==",
         "album_id": "3954806586270433294",
