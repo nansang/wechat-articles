@@ -42,15 +42,18 @@ def get_first_msgid(url, __biz, album_id, path, is_reverse):
             driver.quit()
             article_list = cgi_data['articleList']
             # 提取每篇文章的 URL
-            # for article in article_list:
-            #     time.sleep(1)
-            #     print("文章标题index:", article["title"], article["url"])
-            #     print("time", article["create_time"])
-            #     extract_wechat_article_content(article["url"], int(article["create_time"]), path)
-            #     index_urls.append(article["url"])
+            for article in article_list:
+                time.sleep(1)
+                print("文章标题index:", article["title"], article["url"].replace("amp;", ""))
+                print("time", article["create_time"])
+                exist = extract_wechat_article_content(article["url"].replace("amp;", ""), int(article["create_time"]), path)
+                if exist == True:
+                    return article["msgid"]
+                index_urls.append(article["url"].replace("amp;", ""))
+
 
             # 获取下一页的起始 msgid
-            last_msgid = article_list[0]["msgid"]
+            last_msgid = article_list[-1]["msgid"]
             start_msgid = last_msgid
 
             urls = fetch_album_articles(__biz, album_id, start_msgid, path, is_reverse)
