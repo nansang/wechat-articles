@@ -83,4 +83,4 @@ def extract_wechat_article_content(url, timestamp=1692452567, save_dir="articles
 
 # 示例使用
 # article_url = ""
-# extract_wechat_article_content(article_url)
+# extract_wechat_article_content("https://mp.weixin.qq.com/s/0QVob4-We3wz56dfU44Xbw")
