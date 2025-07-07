@@ -1,69 +1,69 @@
 # 统一配置中心（新增）
 album_configs = [
-    # # 金渐成系列
-    # {
-    #     "biz": "Mzg2NTkwNTM4MA==",
-    #     "album_id": "3896715541905326087",
-    #     "path": "articles/金渐成/投资",
-    #     "is_reverse": 1
-    # },
-    # {
-    #     "biz": "Mzg2NTkwNTM4MA==",
-    #     "album_id": "3932943505567170582",
-    #     "path": "articles/金渐成/育儿",
-    #     "is_reverse": 1
-    # },
-    # # 天机奇谈系列
-    # {
-    #     "biz": "Mzg2OTkwNzE4MA==",
-    #     "album_id": "2861896433740955648",
-    #     "path": "articles/天机奇谈/地产随笔",
-    #     "is_reverse": 0
-    # },
-    # {
-    #     "biz": "Mzg2OTkwNzE4MA==",
-    #     "album_id": "2861890111381323779",
-    #     "path": "articles/天机奇谈/地产透视", 
-    #     "is_reverse": 0
-    # },
-    # {
-    #     "biz": "Mzg2OTkwNzE4MA==",
-    #     "album_id": "3715248304800841730",
-    #     "path": "articles/天机奇谈/日常随想", 
-    #     "is_reverse": 1
-    # },
-    # # 房圳探
-    # {
-    #     "biz": "MjM5NTI0NjE1Mg==",
-    #     "album_id": "2509480863978520577",
-    #     "path": "articles/房圳探/西丽",
-    #     "is_reverse": 0
-    # },
-    # {
-    #     "biz": "MjM5NTI0NjE1Mg==",
-    #     "album_id": "2828563609906610176",
-    #     "path": "articles/房圳探/汇城茗院",
-    #     "is_reverse": 0
-    # },
-    # # 其他系列
-    # {
-    #     "biz": "Mzg5NzkwMTMzMA==",
-    #     "album_id": "2804960172988448769",
-    #     "path": "articles/精算屋/精算考试",
-    #     "is_reverse": 0
-    # },
-    # {
-    #     "biz": "Mzg5NzkwMTMzMA==",
-    #     "album_id": "2809916434738069507",
-    #     "path": "articles/精算屋/招聘信息",
-    #     "is_reverse": 0
-    # },
-    # {
-    #     "biz": "MjA1ODMxMDQwMQ==",
-    #     "album_id": "3954806586270433294",
-    #     "path": "articles/丁香医生/较真生活",
-    #     "is_reverse": 0
-    # },
+    # 金渐成系列
+    {
+        "biz": "Mzg2NTkwNTM4MA==",
+        "album_id": "3896715541905326087",
+        "path": "articles/金渐成/投资",
+        "is_reverse": 1
+    },
+    {
+        "biz": "Mzg2NTkwNTM4MA==",
+        "album_id": "3932943505567170582",
+        "path": "articles/金渐成/育儿",
+        "is_reverse": 1
+    },
+    # 天机奇谈系列
+    {
+        "biz": "Mzg2OTkwNzE4MA==",
+        "album_id": "2861896433740955648",
+        "path": "articles/天机奇谈/地产随笔",
+        "is_reverse": 0
+    },
+    {
+        "biz": "Mzg2OTkwNzE4MA==",
+        "album_id": "2861890111381323779",
+        "path": "articles/天机奇谈/地产透视", 
+        "is_reverse": 0
+    },
+    {
+        "biz": "Mzg2OTkwNzE4MA==",
+        "album_id": "3715248304800841730",
+        "path": "articles/天机奇谈/日常随想", 
+        "is_reverse": 1
+    },
+    # 房圳探
+    {
+        "biz": "MjM5NTI0NjE1Mg==",
+        "album_id": "2509480863978520577",
+        "path": "articles/房圳探/西丽",
+        "is_reverse": 0
+    },
+    {
+        "biz": "MjM5NTI0NjE1Mg==",
+        "album_id": "2828563609906610176",
+        "path": "articles/房圳探/汇城茗院",
+        "is_reverse": 0
+    },
+    # 其他系列
+    {
+        "biz": "Mzg5NzkwMTMzMA==",
+        "album_id": "2804960172988448769",
+        "path": "articles/精算屋/精算考试",
+        "is_reverse": 0
+    },
+    {
+        "biz": "Mzg5NzkwMTMzMA==",
+        "album_id": "2809916434738069507",
+        "path": "articles/精算屋/招聘信息",
+        "is_reverse": 0
+    },
+    {
+        "biz": "MjA1ODMxMDQwMQ==",
+        "album_id": "3954806586270433294",
+        "path": "articles/丁香医生/较真生活",
+        "is_reverse": 0
+    },
     # {
     #     "biz": "MzUyMTcxODYyMw==",
     #     "album_id": "3976481484910690309",
@@ -82,12 +82,12 @@ album_configs = [
     #     "path": "articles/大道问答录/段永平",
     #     "is_reverse": 0
     # },
-    {
-        "biz": "MzUyMTcxODYyMw==",
-        "album_id": "3335787608588730369",
-        "path": "articles/大道问答录/巴菲特股东信",
-        "is_reverse": 0
-    },
+    # {
+    #     "biz": "MzUyMTcxODYyMw==",
+    #     "album_id": "3335787608588730369",
+    #     "path": "articles/大道问答录/巴菲特股东信",
+    #     "is_reverse": 0
+    # },
     # {
     #     "biz": "MzUyMTcxODYyMw==",
     #     "album_id": "2532315030176972800",
