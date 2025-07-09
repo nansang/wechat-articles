@@ -13,6 +13,12 @@ album_configs = [
         "path": "articles/金渐成/育儿",
         "is_reverse": 1
     },
+    {
+        "biz": "Mzg2NTkwNTM4MA==",
+        "album_id": "3896708264536227856",
+        "path": "articles/金渐成/投资心得",
+        "is_reverse": 1
+    },
     # 天机奇谈系列
     {
         "biz": "Mzg2OTkwNzE4MA==",
