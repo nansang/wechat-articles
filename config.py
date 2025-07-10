@@ -19,6 +19,13 @@ album_configs = [
         "path": "articles/金渐成/投资心得",
         "is_reverse": 1
     },
+    # 康治本伤寒论
+    {
+        "biz": "MzkwNDM4NDMyMw==",
+        "album_id": "4005680930332409861",
+        "path": "articles/凌若云/康治本伤寒论",
+        "is_reverse": 1
+    },
     # 天机奇谈系列
     {
         "biz": "Mzg2OTkwNzE4MA==",
@@ -88,18 +95,18 @@ album_configs = [
     #     "path": "articles/大道问答录/段永平",
     #     "is_reverse": 0
     # },
-    # {
-    #     "biz": "MzUyMTcxODYyMw==",
-    #     "album_id": "3335787608588730369",
-    #     "path": "articles/大道问答录/巴菲特股东信",
-    #     "is_reverse": 0
-    # },
-    # {
-    #     "biz": "MzUyMTcxODYyMw==",
-    #     "album_id": "2532315030176972800",
-    #     "path": "articles/大道问答录/巴菲特",
-    #     "is_reverse": 0
-    # },
+    {
+        "biz": "MzUyMTcxODYyMw==",
+        "album_id": "3335787608588730369",
+        "path": "articles/大道问答录/巴菲特股东信",
+        "is_reverse": 0
+    },
+    {
+        "biz": "MzUyMTcxODYyMw==",
+        "album_id": "2532315030176972800",
+        "path": "articles/大道问答录/巴菲特",
+        "is_reverse": 0
+    },
 ]
 
 # 批量执行函数（修改原代码）
