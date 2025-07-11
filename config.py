@@ -1,5 +1,12 @@
 # 统一配置中心（新增）
 album_configs = [
+    # CFA
+    {
+        "biz": "MjM5ODg1Njk1Mw==",
+        "album_id": "4035873491378192388",
+        "path": "articles/品职在线/CFA学科攻略",
+        "is_reverse": 1
+    },
     # 金渐成系列
     {
         "biz": "Mzg2NTkwNTM4MA==",
