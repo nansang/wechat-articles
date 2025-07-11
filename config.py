@@ -19,6 +19,13 @@ album_configs = [
         "path": "articles/金渐成/投资心得",
         "is_reverse": 1
     },
+    # 匹夫老六说财税
+    {
+        "biz": "MzUyNTI2NTY0MQ==",
+        "album_id": "3683658408122351627",
+        "path": "articles/匹夫老六说财税/我做尽调这些年",
+        "is_reverse": 0
+    },
     # 康治本伤寒论
     {
         "biz": "MzkwNDM4NDMyMw==",
