@@ -109,18 +109,18 @@ album_configs = [
     #     "path": "articles/大道问答录/段永平",
     #     "is_reverse": 0
     # },
-    {
-        "biz": "MzUyMTcxODYyMw==",
-        "album_id": "3335787608588730369",
-        "path": "articles/大道问答录/巴菲特股东信",
-        "is_reverse": 0
-    },
-    {
-        "biz": "MzUyMTcxODYyMw==",
-        "album_id": "2532315030176972800",
-        "path": "articles/大道问答录/巴菲特",
-        "is_reverse": 0
-    },
+    # {
+    #     "biz": "MzUyMTcxODYyMw==",
+    #     "album_id": "3335787608588730369",
+    #     "path": "articles/大道问答录/巴菲特股东信",
+    #     "is_reverse": 0
+    # },
+    # {
+    #     "biz": "MzUyMTcxODYyMw==",
+    #     "album_id": "2532315030176972800",
+    #     "path": "articles/大道问答录/巴菲特",
+    #     "is_reverse": 0
+    # },
 ]
 
 # 批量执行函数（修改原代码）
