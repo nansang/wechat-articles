@@ -1,5 +1,11 @@
 # 统一配置中心（新增）
 album_configs = [
+    {
+        "biz": "Mzg2NTU3NjEwMw==",
+        "album_id": "3671102465178337283",
+        "path": "articles/真视研究/财务分析",
+        "is_reverse": 0
+    },
     # CFA
     {
         "biz": "MjM5ODg1Njk1Mw==",
@@ -91,12 +97,6 @@ album_configs = [
         "path": "articles/丁香医生/较真生活",
         "is_reverse": 0
     },
-    # {
-    #     "biz": "MzUyMTcxODYyMw==",
-    #     "album_id": "3976481484910690309",
-    #     "path": "articles/大道问答录/段永平访谈和演讲",
-    #     "is_reverse": 1
-    # },
     # {
     #     "biz": "MzUyMTcxODYyMw==",
     #     "album_id": "3002213374534926339",
