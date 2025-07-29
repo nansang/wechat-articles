@@ -1,17 +1,5 @@
 # 2025-07-12 - 26年 _ CFA三级学科速成攻略：Portfolio Construction-Trading篇
 
-点击左上角**何李的CFA学习课堂**设置星标
-
-每天下午18点准时推送CFA考试干货
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/X893I6ibJ7AMibTGPNF5eBQNibSRykX50tibicKNB8ZgruBMjArP63WjKccfwr4BlZKE9d3Oqepr70sTRT3XiatW7LicQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
-
-（内部学员联系专属辅导员即可）
-
-有很多刚接触CFA的小伙伴，对CFA要考什么内容，考哪些学科都非常迷茫，**作为备考贴心小帮手的品职自然不会让大家继续迷茫啦~**
-
-我们特别推出了**CFA各个级别的学科介绍（26考纲）**，你想要的学科介绍，备考攻略我们全都有！
-
 今天分享的是**CFAPortfolio Construction-Trading备考攻略**，一起往下看吧！
 
 01
@@ -52,18 +40,6 @@
 
 * 最后，介绍了电子交易的风险(Electronic Trading Risks)，比如高频交易的军备竞赛(HFT ArmsRace)，系统性风险(Systemic Risks)以及一些市场操纵和滥用行为(Market Manipulation andAbusive Practices)。
 
-先上福利！想要领取三级Portfolio Construction-Trading**学科介绍pdf**的同学可添加小助手领取。
-
-
-扫码添加小助手
-
-回复**【学科攻略】**
-
-**免费领取**
-
-
-（内部学员咨询专属辅导员即可）
-
 03
 
 重难点
@@ -81,10 +57,3 @@
 所以建议同学们听课时做好笔记，课下注意配合举例，着重复习这些重点标星的内容。
 
 **——The  End——**
-
-**CFA学习交流群**
-
-
-点击下方“**阅读原文**”了解CFA～
-
-↓↓↓
