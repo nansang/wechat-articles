@@ -1,11 +1,11 @@
 # 统一配置中心（新增）
 album_configs = [
-    {
-        "biz": "Mzg2NTU3NjEwMw==",
-        "album_id": "3671102465178337283",
-        "path": "articles/真视研究/财务分析",
-        "is_reverse": 0
-    },
+    # {
+    #     "biz": "Mzg2NTU3NjEwMw==",
+    #     "album_id": "3671102465178337283",
+    #     "path": "articles/真视研究/财务分析",
+    #     "is_reverse": 0
+    # },
     # CFA
     {
         "biz": "MjM5ODg1Njk1Mw==",
@@ -66,37 +66,37 @@ album_configs = [
         "is_reverse": 1
     },
     # 房圳探
-    {
-        "biz": "MjM5NTI0NjE1Mg==",
-        "album_id": "2509480863978520577",
-        "path": "articles/房圳探/西丽",
-        "is_reverse": 0
-    },
-    {
-        "biz": "MjM5NTI0NjE1Mg==",
-        "album_id": "2828563609906610176",
-        "path": "articles/房圳探/汇城茗院",
-        "is_reverse": 0
-    },
+    # {
+    #     "biz": "MjM5NTI0NjE1Mg==",
+    #     "album_id": "2509480863978520577",
+    #     "path": "articles/房圳探/西丽",
+    #     "is_reverse": 0
+    # },
+    # {
+    #     "biz": "MjM5NTI0NjE1Mg==",
+    #     "album_id": "2828563609906610176",
+    #     "path": "articles/房圳探/汇城茗院",
+    #     "is_reverse": 0
+    # },
     # 其他系列
-    {
-        "biz": "Mzg5NzkwMTMzMA==",
-        "album_id": "2804960172988448769",
-        "path": "articles/精算屋/精算考试",
-        "is_reverse": 0
-    },
-    {
-        "biz": "Mzg5NzkwMTMzMA==",
-        "album_id": "2809916434738069507",
-        "path": "articles/精算屋/招聘信息",
-        "is_reverse": 0
-    },
-    {
-        "biz": "MjA1ODMxMDQwMQ==",
-        "album_id": "3954806586270433294",
-        "path": "articles/丁香医生/较真生活",
-        "is_reverse": 0
-    },
+    # {
+    #     "biz": "Mzg5NzkwMTMzMA==",
+    #     "album_id": "2804960172988448769",
+    #     "path": "articles/精算屋/精算考试",
+    #     "is_reverse": 0
+    # },
+    # {
+    #     "biz": "Mzg5NzkwMTMzMA==",
+    #     "album_id": "2809916434738069507",
+    #     "path": "articles/精算屋/招聘信息",
+    #     "is_reverse": 0
+    # },
+    # {
+    #     "biz": "MjA1ODMxMDQwMQ==",
+    #     "album_id": "3954806586270433294",
+    #     "path": "articles/丁香医生/较真生活",
+    #     "is_reverse": 0
+    # },
     # {
     #     "biz": "MzUyMTcxODYyMw==",
     #     "album_id": "3002213374534926339",
